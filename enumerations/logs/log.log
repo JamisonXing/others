@@ -1,0 +1,5 @@
+2023-12-08 11:21:40  [ main:0 ] - [ INFO ]  值不相等
+2023-12-08 11:26:29  [ main:0 ] - [ INFO ]  支付成功
+2023-12-08 11:30:13  [ main:0 ] - [ INFO ]  [WAIT_PAY, PAY_SUCCESS, COMPLETED, CANCEL]
+2023-12-08 11:32:06  [ main:0 ] - [ INFO ]  [WAIT_PAY, PAY_SUCCESS, COMPLETED, CANCEL]
+2023-12-08 11:32:06  [ main:1 ] - [ INFO ]  PAY_SUCCESS
